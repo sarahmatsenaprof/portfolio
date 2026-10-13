@@ -35,6 +35,8 @@ I use this GitHub for side projects, experiments, and notes on things I'm learni
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=flat-square)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
+
+### Payments
 ![ISO 8583](https://img.shields.io/badge/ISO%208583-Payments-0052CC?style=flat-square)
 ![Postilion](https://img.shields.io/badge/Postilion-Transaction%20Processing-333333?style=flat-square)
 

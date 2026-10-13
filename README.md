@@ -1,141 +1,66 @@
+<img width="1024" height="390" alt="image" src="https://github.com/user-attachments/assets/8c9bb748-d5c1-4115-a1cb-68878b906778" />
+
 # Sup, I'm Sarah 👋🏾
 
-### Software Engineer | Java | Backend | Payments | Fintech | AI
+### Backend Software Engineer | Java | Payments | Fintech
 
-I'm a Software Engineer who enjoys building things, figuring out how they work, and turning random ideas into actual software.
+I'm a backend engineer with 4+ years of Java experience, mostly in payments. My day-to-day is Spring Boot services, ISO 8583 messaging, and transaction processing on Postilion, along with the SQL Server databases behind them.
 
-My professional background is primarily in **Java and backend development**, with experience building and supporting software in the fintech space. I've worked with APIs, integrations, databases, real-time systems, and payment technologies.
+I use this GitHub for side projects, experiments, and notes on things I'm learning. Some repos are polished, some are experiments.
 
-Outside of work, I'm using GitHub as my **engineering playground**, a place to experiment, learn, document what I discover, and build the things I'm curious about.
+<p>
+  <a href="http://sarahmatsena.co.za">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Portfolio-555555?style=for-the-badge&logo=github" alt="Portfolio"/>
+  </a>
+  <a href="www.linkedin.com/in/sarah-matsena-770b52193">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sarahmatsenaprof">
+    <img src="https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+---
+
+## What I Work With
+
+**Languages & frameworks:** Java, Spring Boot, SQL, TypeScript, Angular, Python
+
+**Data & infrastructure:** SQL Server, Postgres, MongoDB, Docker, Kubernetes, AWS
+
+**Observability:** Elasticsearch, Kibana, Datadog
+
+**Payments:** ISO 8583, Postilion, real-time transaction processing
 
 ---
 
-## 👩🏾‍💻 What I Work With
+## Projects
 
-**Languages & Frameworks**
-
-- Java
-- Spring Boot
-- TypeScript
-- Angular
-- Python
-- SQL
-
-**Backend & Infrastructure**
-
-- REST APIs
-- MongoDB
-- Postgres
-- SQL Server
-- Docker
-- Kubernetes
-- AWS
-
-**Observability & Tooling**
-
-- Elasticsearch
-- Kibana
-- Datadog
-- Git
-- GitHub
-
-**Domain Experience**
-
-- Fintech
-- Payment systems
-- ISO 8583
-- Postilion
-- Real-time transaction processing
+- **[Project name](link)**: what it does, in one line. *Stack: ...*
+- **[Project name](link)**: what it does, in one line. *Stack: ...*
 
 ---
 
-## 🤖 Exploring AI
+## Currently Exploring
 
-I'm interested in AI beyond using ChatGPT for therapy sessions.😭
-
-I'm currently exploring what it looks like to actually **build software with AI** and understand the technology behind it.
-
-Things I'm interested in:
-
-- LLM-powered applications
-- RAG and knowledge-based applications
-- AI agents and tool calling
-- AI APIs and integrations
-- AI-powered developer tools
-- Automating real-world workflows
-- Evaluating AI-generated output
-
-I'm still learning, experimenting, and figuring out where I want to take this.
+- An ISO 8583 → ISO 20022 adapter
+- Instant EFT architecture
+- Distributed systems and system design
+- Where AI fits into traditional backend systems (LLM APIs, RAG, tool calling)
 
 ---
 
-## 🧪 What You'll Find Here
+## Education
 
-This GitHub is essentially my **public engineering notebook**.
-
-You'll find:
-
-- Projects I'm building
-- Technical experiments
-- Proofs of concept
-- Things I'm learning
-- Architecture experiments
-- Random ideas turned into code
-- Notes and documentation
-- Projects that started with *"I wonder if I could build this..."*
-
-Not everything here will be production-ready.
-
-Some projects will be polished. Others will be experiments. The point is to **learn by building**.
+Currently completing a BSc in Mathematics and Computer Science, with a focus on system design, architecture, and distributed systems.
 
 ---
 
-## 💡 Things I'm Currently Exploring
+## Feedback
 
-A few things on my list:
-
-- Building an ISO 8583 → ISO 20022 adapter
-- Exploring instant EFT architectures
-- Learning more about distributed systems
-- Improving my system design skills
-- Exploring how AI can be integrated into traditional software systems
-- Turning interesting ideas into working prototypes
+If you spot something that could be improved, or think I've made a questionable architectural call, open an issue, start a discussion, or send a PR.
 
 ---
 
-## 📚 Always Learning
+## Connect
 
-I'm currently completing a **BSc in Mathematics and Computer Science** while continuing to grow as a Software Engineer.
-
-I'm particularly interested in becoming stronger in:
-
-**Software Engineering → System Design → Architecture → Distributed Systems → AI**
-
-I'm also very interested in understanding the business and technical problems behind the software I build, rather than focusing only on implementation.
-
----
-
-## 🚀 The Goal
-
-This portfolio will show **how I think, what I'm learning, what I'm curious about, and what I'm capable of building**.
-
-Some ideas will work.
-
-Some won't.
-
-Some will probably be unnecessarily complicated.
-
-But they'll all be opportunities to learn something.
-
-**Build → Break → Learn → Improve → Repeat.**
-
---- 
-
-## 🤝 Remember, if you see something, say something.
-If you spot something that could be improved, have a different approach, or think I've made a questionable architectural decision, feel free to:
-
-- Open an issue
-- Start a discussion
-- Submit a pull request
-- Share an alternative approach
-- Leave feedback on a project
+- LinkedIn: [your-link](https://linkedin.com/in/your-handle)

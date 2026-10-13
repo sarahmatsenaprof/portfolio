@@ -63,4 +63,4 @@ If you spot something that could be improved, or think I've made a questionable 
 
 ## Connect
 
-- LinkedIn: [your-link](https://linkedin.com/in/your-handle)
+- LinkedIn: [your-link](www.linkedin.com/in/sarah-matsena-770b52193)

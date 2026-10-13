@@ -4,7 +4,7 @@
 
 ### Backend Software Engineer | Java | Payments | Fintech
 
-I'm a backend engineer with 4+ years of Java experience, mostly in payments. My day-to-day is Spring Boot services, ISO 8583 messaging, and transaction processing on Postilion, along with the SQL Server databases behind them.
+I'm a backend engineer with 5 years of software development experience in Fintech. My day-to-day is Java, Spring Boot services, ISO 8583 messaging, and transaction processing on Postilion, along with the SQL Server databases behind them.
 
 I use this GitHub for side projects, experiments, and notes on things I'm learning. Some repos are polished, some are experiments.
 
@@ -63,4 +63,4 @@ If you spot something that could be improved, or think I've made a questionable 
 
 ## Connect
 
-- LinkedIn: [your-link](www.linkedin.com/in/sarah-matsena-770b52193)
+- LinkedIn: [Sarah Matsena](www.linkedin.com/in/sarah-matsena-770b52193)
